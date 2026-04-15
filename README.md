@@ -118,7 +118,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-Created by [Shaurya](https://github.com/shaurya1606)  
+Created by [Vedansh] 
 For questions or feedback, please open an issue or reach out via GitHub.
 
 ---
